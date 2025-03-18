@@ -32,3 +32,7 @@ D:\Projects\CityInfo\CityInfo.API\obj\Debug\net8.0\CityInfo.API.genruntimeconfig
 D:\Projects\CityInfo\CityInfo.API\obj\Debug\net8.0\ref\CityInfo.API.dll
 D:\Projects\CityInfo\CityInfo.API\obj\Debug\net8.0\CityInfo.API.sourcelink.json
 D:\Projects\CityInfo\CityInfo.API\bin\Debug\net8.0\getting-started-with-rest-slides.pdf
+D:\Projects\CityInfo\CityInfo.API\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Projects\CityInfo\CityInfo.API\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Projects\CityInfo\CityInfo.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Projects\CityInfo\CityInfo.API\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
