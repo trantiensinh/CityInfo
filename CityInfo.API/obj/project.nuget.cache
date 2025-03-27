@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SdcKi95+FLg=",
+  "dgSpecHash": "aIB+soMNoBE=",
   "success": true,
-  "projectFilePath": "D:\\Projects\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
+  "projectFilePath": "E:\\Projects\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SINH VIEN\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\8.0.14\\microsoft.aspnetcore.jsonpatch.8.0.14.nupkg.sha512",
     "C:\\Users\\SINH VIEN\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\8.0.14\\microsoft.aspnetcore.mvc.newtonsoftjson.8.0.14.nupkg.sha512",
